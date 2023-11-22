@@ -1,0 +1,215 @@
+Necesito que me ayudes a corregir varios textos par dejarlos de manera ordenada, esto va asi:
+
+En el texto te demarcare con una frase o palabra en mayusculas encerrados corcehete cuadrado la categoria de cada parte del texto y a donde pertenece, esto lo llamare identificadores. Una vez te pase el primer texto deberas acomodarlo en el siguiente formato:
+[TITULO UNIDAD | Text]
+[SALTO]
+Student A:
+[SALTO]
+Situation:
+[STUDENT A SITUATION | Text]
+[SALTO]
+Discuss the following:
+[STUDENT A TOPICS | List]
+[SALTO]
+[SALTO]
+[SALTO]
+Student B:
+[SALTO]
+Situation:
+[STUDENT B SITUATION | Text]
+[SALTO]
+Discuss the following:
+[STUDENT B TOPICS | List]
+[SALTO]
+[SALTO]
+Grammar Structures:
+[UNIT GRAMMAR | List]
+[SALTO]
+[SALTO]
+Vocabulary:
+[UNIT VOCABULARY | List]
+[SALTO]
+[SALTO]
+Pronunciation:
+[UNIT PRONUNCIATION | List]
+
+Instrucciones del nuevo formato:
+- Al dar el nuevo formato los identificadores que estan encerrados en corchete cuadrado deben ser eliminados una vez el texto que corresponda haya sido colocado donde debe.
+- Los identificadores constan de la frase identificadora, la cual define en donde se colocara el texto y seguido de ello se determina el tipo de texto [TOPIC | TYPE]:
+	* Text: Un simple parrafo
+	* List: Un elemento de una lista, en ese caso debe llevar una vineta al inicio con un asterisco
+- Los identificadores de [SALTO] determinan si debe existir un salto de linea
+- Los identificadores que no sean de salto se colocaran al inicio de la linea determinando que el texto que sigue le pertenece y termina antes del siguiente identificador
+- El texto del formato nuevo que te pase como plantilla que venga sin corchete cuadrado, no es un identificador, por lo cual no se le puede cambiar
+- El identificador [IGNORE] define que linea de texto debe ser ignorada y no ser agregada al formato nuevo
+
+Ejemplo Viejo:
+[TITULO UNIDAD | Text] Unit 9 - Situation 1
+[IGNORE]Student A
+
+[IGNORE]Student B
+
+[STUDENT A SITUATION | Text] You are a radio reporter interested in the way people used to travel in
+the past. You are holding a conversation with a historian about the life
+of Marco Polo.
+
+[STUDENT B SITUATION | Text]You are a historian interested in the way people used to travel in the
+past. You are holding a conversation with a historian about the life of
+Marco Polo.
+
+[IGNORE]Ask questions and discuss these ideas:
+
+[IGNORE]Ask questions and discuss these ideas:
+
+[STUDENT A TOPICS | List]- How European explorers used to travel before Marco Polo
+
+[STUDENT B TOPICS | List]- How people in CR used to move around Central America in 1800s
+
+[STUDENT A TOPICS | List]- How long it took Marco Polo to return to Italy after being in China
+
+[STUDENT B TOPICS | List]- How long it took people to travel from Guatemala City to San José
+
+[STUDENT A TOPICS | List]- Reasons why Marco Polo and his father went to Asia
+
+[STUDENT B TOPICS | List]- What s/he thinks people used to experience in those long trips
+
+[STUDENT A TOPICS | List]- How Marco Polo and his father used to move around from country to
+country
+
+[STUDENT B TOPICS | List]- How important communications or personal mail were sent across
+countries in Central America
+
+[STUDENT A TOPICS | List]- The most interesting discoveries made by Marco Polo in China
+
+[STUDENT B TOPICS | List]- How dangerous s/he thinks traveling used to be in the past
+
+[IGNORE]Vocabulary
+
+[IGNORE]Grammar Structures
+
+[IGNORE]Pronunciation
+[UNIT PRONUNCIATION | List]Reduction of used to
+
+[UNIT VOCABULARY | List]challenging
+
+[UNIT VOCABULARY | List]silk
+
+[UNIT VOCABULARY | List]culture
+
+[UNIT VOCABULARY | List]turn on
+
+[UNIT GRAMMAR | List]Used to
+
+[UNIT VOCABULARY | List]exchange
+
+[UNIT VOCABULARY | List]published
+
+[UNIT VOCABULARY | List]bring back
+
+[UNIT VOCABULARY | List]network
+
+[UNIT GRAMMAR | List]Passive voice in the past
+
+[UNIT VOCABULARY | List]set oﬀ
+
+[UNIT VOCABULARY | List]bison
+
+[UNIT VOCABULARY | List]bring up
+
+[UNIT VOCABULARY | List]BCE
+
+[UNIT VOCABULARY | List]beyond
+
+[UNIT VOCABULARY | List]reindeer
+
+[UNIT VOCABULARY | List]ﬁgure out
+
+[UNIT VOCABULARY | List]risk
+
+[UNIT VOCABULARY | List]opportunities
+
+[UNIT VOCABULARY | List]deer
+
+[UNIT VOCABULARY | List]help out
+
+[UNIT VOCABULARY | List]goods
+
+[UNIT VOCABULARY | List]trade
+
+[UNIT VOCABULARY | List]sheep
+
+[UNIT VOCABULARY | List]put on
+
+[UNIT VOCABULARY | List]plague
+
+
+Ejemplo aplicando el nuevo formato:
+Unit 9 - Situation 1
+
+Student A:
+
+Situation:
+You are a radio reporter interested in the way people used to travel in
+the past. You are holding a conversation with a historian about the life
+of Marco Polo.
+
+Discuss the following:
+* How European explorers used to travel before Marco Polo
+* How long it took Marco Polo to return to Italy after being in China
+* Reasons why Marco Polo and his father went to Asia
+* How Marco Polo and his father used to move around from country to country
+* The most interesting discoveries made by Marco Polo in China
+
+
+
+Student B:
+
+Situation:
+You are a historian interested in the way people used to travel in the
+past. You are holding a conversation with a historian about the life of
+Marco Polo.
+
+Discuss the following:
+* How people in CR used to move around Central America in 1800s
+* How long it took people to travel from Guatemala City to San José
+* What s/he thinks people used to experience in those long trips
+* How important communications or personal mail were sent across countries in Central America
+* How dangerous s/he thinks traveling used to be in the past
+
+
+Grammar Structures:
+* Used to
+* Passive voice in the past
+
+
+Vocabulary:
+* challenging
+* silk
+* culture
+* turn on
+* exchange
+* published
+* bring back
+* network
+* set oﬀ
+* bison
+* BCE
+* beyond
+* reindeer
+* ﬁgure out
+* risk
+* opportunities
+* deer
+* help out
+* goods
+* trade
+* sheep
+* put on
+* plague
+
+
+Pronunciation:
+* Reduction of used to
+
+
+Tienes dudas?
